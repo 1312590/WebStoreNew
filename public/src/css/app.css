@@ -1,0 +1,16 @@
+
+  body {
+    background-color: black;
+    overflow: hidden;
+}
+
+  .col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+  .font {
+    color: white;
+    font-size: 150%;
+    font-family: fantasy;
+  }

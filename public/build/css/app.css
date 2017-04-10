@@ -1,0 +1,65 @@
+
+
+  body {
+    background-color: black;
+    overflow: hidden;
+}
+
+  .col-centered{
+    float: none;
+    margin: 0 auto;
+}
+
+  .font {
+    color: white;
+    font-size: 150%;
+    font-family: fantasy;
+  }
+
+.main {
+    background-color: black;
+    height: 100%;
+    opacity: 0%;
+}
+
+.menu {
+    color: rgb(0, 225, 96);
+    font-family: cursive;
+    display: inline-block;
+      
+}
+
+/* Animation */
+
+.star0 {
+    height: 1px;
+    width: 1px;
+    opacity: 1;
+    position: absolute;
+  }
+
+  .star1 {
+    height: 2px;
+    width: 2px;
+    border-radius: 50%;
+    opacity: 1;
+    position: absolute;
+  }
+
+  .star2 {
+    height: 3px;
+    width: 3px;
+    border-radius: 50%;
+    opacity: 1;
+    position: absolute;
+  }
+
+  .star3 {
+    height: 4px;
+    width: 4px;
+    border-radius: 50%;
+    opacity: 1;
+    position: absolute;
+  }
+
+
